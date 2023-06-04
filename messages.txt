@@ -1,0 +1,3 @@
+message 1: create a file
+message 2: stage the file
+message 3: commit to git
